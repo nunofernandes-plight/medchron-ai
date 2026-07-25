@@ -1,4 +1,4 @@
-# Medchron-ai
+# Medchron AI
 
 > Transforming medical records into structured timelines, clinical knowledge, and AI-powered legal insights.
 
